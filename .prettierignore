@@ -1,4 +1,10 @@
 node_modules
 artifacts
 cache
-coverage*
+img
+.env 
+.*
+package.json
+coverage
+coverage.json
+README.md
